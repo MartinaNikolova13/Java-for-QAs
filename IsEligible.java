@@ -11,5 +11,7 @@ public class IsEligible {
         }else{
             System.out.print("The person is not eligible to work.");
         }
+       scanner.close();
     }
 }
+
